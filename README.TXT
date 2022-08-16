@@ -1,12 +1,11 @@
-----------------------------------------------------------------------------
-Este é o arquivo README do projeto. Você deve descrever aqui o seu projeto.
-Informe ao usuário (alguém que não sabe nada sobre este projeto!) tudo que
-ele/ela precisa saber. Os comentários devem incluir, pelo menos:
-------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------
+TITULO DO PROJETO: MasterMind
+VERSÃO ou DATA: 24/05/2021
+AUTORES: João Pedro de Moura Medeiros
+OBJETIVO DO PROJETO: Projeto da cadeira de fundamentos de programação
+                     1º semestre na PUCRS do curso de Ciência de Dados e IA
+COMO INICIAR O PROJETO: Baixe o arquivo e execute na linguagem de programação Java
+INSTRUÇÕES PARA O USUÁRIO: *
+--------------------------------------------------------------------------------------------------------------
 
-TITULO DO PROJETO:
-OBJETIVO DO PROJETO:
-VERSÃO ou DATA:
-COMO INICIAR O PROJETO:
-AUTORES:
-INSTRUÇÕES PARA O USUÁRIO:
+
